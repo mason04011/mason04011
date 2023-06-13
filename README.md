@@ -12,7 +12,7 @@ I am most expereinced in game mechanic programming however throughout the durati
 
 - 🔭 I’m currently a soon to be Graduate on the hunt for work
 - 🌱 I’m currently working on a VR project in Unreal Engine 5.1
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💬 Feel free to ask me some questions, I would love to answer them.✌
 - 📫 How to reach me: mason04014@gmail.com
 - 📝[Portfolio](https://mason04011.wixsite.com/portfolio)
 - 📝[LinkedIn](https://www.linkedin.com/in/mason-m-a71941165/)
