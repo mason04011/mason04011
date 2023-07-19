@@ -4,13 +4,15 @@
 
 Hi, I'm Mason a soon to be graduate of Computer Games Development, Welcome to my GitHub where you will find mostly projects that I spend my free time working on.
 
+Currently a freelance unity developer working for Platinum Training Services.
+
 I am most expereinced in game mechanic programming however throughout the duration of my course I have been able to learn about all aspets of game development, building on skills from rigging models to level design.
 
 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently a soon to be Graduate on the hunt for work
+- 🔭 I’m a Computer Games Development Graduate on the hunt for work
 - 🌱 I’m currently working on a VR project in Unreal Engine 5.1
 - 💬 Feel free to ask me some questions, I would love to answer them.✌
 - 📫 How to reach me: mason04014@gmail.com
