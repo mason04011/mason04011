@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Mason a soon to be graduate of Computer Games Development, Welcome to my GitHub where you will find mostly projects that I spend my free time working on.
+Hi, I'm Mason a Computer Games Development Graduate, Welcome to my GitHub where you will find mostly projects that I spend my free time working on.
 
 Currently a freelance unity developer working for Platinum Training Services.
 
