@@ -4,8 +4,6 @@
 
 Hi, I'm Mason a Computer Games Development Graduate, Welcome to my GitHub where you will find mostly projects that I spend my free time working on.
 
-Currently a freelance unity developer working for Platinum Training Services.
-
 I am most expereinced in game mechanic programming however throughout the duration of my course I have been able to learn about all aspets of game development, building on skills from rigging models to level design.
 
 
